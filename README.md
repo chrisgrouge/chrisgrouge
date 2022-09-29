@@ -1,7 +1,7 @@
 <!--
 **chrisgrouge/chrisgrouge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p slign="center">
+<p align="center">
   <img src="https://sdk.bitmoji.com/render/panel/20084243-291767760_36-s5-v1.png?transparent=1&palette=1&scale=2" alt="" width="200">
 </p>
 <p>
