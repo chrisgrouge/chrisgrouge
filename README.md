@@ -2,10 +2,10 @@
 **chrisgrouge/chrisgrouge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p>
-  <img src="https://sdk.bitmoji.com/render/panel/20084243-291767760_36-s5-v1.png?transparent=1&palette=1&scale=2" alt="" width="350">
+  <img src="https://sdk.bitmoji.com/render/panel/20084243-291767760_36-s5-v1.png?transparent=1&palette=1&scale=2" alt="" width="200" style="display:block; margin:0 auto;">
 </p>
 <p>
-  <h1 align="center"><b>Hi there 👋, I'm Chris</h1>
+  <h1 align="center"><b>Hi there 👋, I'm Chris</b></h1>
 </p>
 <p align="center">
   <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp; -->
