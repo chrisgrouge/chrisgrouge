@@ -20,10 +20,7 @@
   Timezone: Eastern Standard Time (EST)
 </p>
 <p>
-  I'm an email developer specializing in front-end development (for email and web) and email automation responsible for consulting, developing, and deploying highly personalized, one-to-one conversations with customers in the inbox.
-</p>
-<p>
-  Iʼm passionate about my work and consider myself a creative problem solver with code. I enjoy creating something from scratch and seeing it come to life on screen. Whether itʼs a complex automated flow, an email design system, an intricate data architecture, or a beautiful landing page, I love taking a big-picture idea from planning and designing to building and deploying.
+  I build (and occasionally design) really cool apps and websites.
 </p>
 <br />
 <!-- <p>🔭 I’m currently working on ...</p>
